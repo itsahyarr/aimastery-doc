@@ -1,0 +1,11 @@
+https://github.com/tzutalin/labelImg -> Windows & Linux
+https://www.makesense.ai/
+
+Train Yolo v2 -> https://colab.research.google.com/drive/1co3SOqKhbrJfltvB8k91ZMqsY7sBXI0U?usp=sharing 
+Test Yolo Detection -> https://colab.research.google.com/drive/1cvtrC0cBv7z4OsxrNyDMb-pFAooKrC_P?usp=sharing 
+Real-time Object Detection (Pretrain) -> https://colab.research.google.com/drive/1gAjlBJMGOTohlhtlFgq-wxtc2mCrIX2k?usp=sharing 
+
+==========================
+TUGAS (kelompok)
+Deadline : 07 April 23.59
+==========================
